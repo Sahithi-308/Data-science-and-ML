@@ -3,7 +3,7 @@ Above Machine learning topics like Regressions,Decision Tree,KNN,PCA,Cartoonisin
 
 
 ### Decision Tree:
-It is a classification algorithm which provides solutions to the regression problems.
+It is a classification algorithm which provides solutions to the regression problems.<br>
 imported modules are:
     -pandas
     -numpy
